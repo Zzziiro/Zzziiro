@@ -1,4 +1,4 @@
-## 🖐 Bem-vindo!
+## 🖐
   
 - 📕 Estudando Java/Typescript
 - 📗 Junior dev
