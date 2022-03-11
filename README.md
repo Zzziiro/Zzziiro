@@ -1,5 +1,5 @@
 
-- 📕 Estudando linguagens frontend em geral
+- 📕 Estudando ReactJs e JavaScript
 - 📗 Junior dev
 - 📘 E-mail: luscas.guimaraes@gmail.com
 
