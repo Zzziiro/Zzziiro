@@ -1,5 +1,5 @@
 
-- 📕 Estudando ReactJs e JavaScript
+- 📕 Estudando ReactJs, TypeScript e JavaScript
 - 📗 Junior dev
 - 📘 E-mail: luscas.guimaraes@gmail.com
 
