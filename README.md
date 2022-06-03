@@ -1,2 +1,1 @@
-- 📗 Junior dev na Tiflux
 - 📕 Estudando ReactJs, TypeScript e JavaScript
