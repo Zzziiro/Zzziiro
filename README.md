@@ -1,1 +1,2 @@
-- 📕 Estudando ReactJs, TypeScript e JavaScript
+- 📕 Trabalhando com Type, React e Javascript
+- 📘 Estudando design e UX
