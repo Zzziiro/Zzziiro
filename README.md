@@ -1,6 +1,5 @@
 📕 Lucas Vieira Guimarães - 17 anos - Dev junior - Joinville SC
 
-📗 Trabalhando com e estudando; Javascript, Typescript e ReactJS, foco em frontEnd
 
 
 
