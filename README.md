@@ -10,7 +10,7 @@
 <br />
   
 <div align="center">
-  <span href="https://github.com/BrunnerLivio/brunnerlivio/issues/62#issuecomment-new">
+  <span href="https://github.com/Zzziiro/README/issues/1">
   <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/guestbook.svg" /> 
   <img height="100" alt="Music" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/music.gif"> 
 </div>
