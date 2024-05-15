@@ -9,8 +9,9 @@
 </div>
 <br />
   
-<div align="center">
-  <span href="https://github.com/Zzziiro/README/issues/1">
-  <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/guestbook.svg" /> 
+<div href="https://github.com/Zzziiro/README/issues/1" align="center">
+  <a href="https://github.com/Zzziiro/README/issues/1#issuecomment-new">
+    <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/guestbook.svg" /> 
+  </a>
   <img height="100" alt="Music" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/music.gif"> 
 </div>
