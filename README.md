@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/welcome.png">
 
 <div align="center">
-📕 Lucas Vieira Guimarães - 18y - studying design at PUC Joinville and currently using <img align="center" alt="ziro-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+📕 Lucas Vieira Guimarães - 18y - studying design at PUC SC and currently using <img align="center" alt="ziro-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img align="center" alt="ziro-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="ziro-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="ziro-TS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
