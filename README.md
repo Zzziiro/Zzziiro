@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/welcome.png">
           
 <div align="center">
-📕 Lucas Vieira Guimarães - 18y - working as frontend developer - studying design at PUC SC
+📕 Lucas Vieira Guimarães - 19y - working as frontend developer - studying design at PUC SC
 </div>
 <br />
 
